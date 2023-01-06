@@ -2,7 +2,7 @@
   "name": "@throttleup/gatsby-source-wordpress",
   "description": "Custom version of the original package. Source data from WordPress in an efficient and scalable way.",
   "author": "ThrottleUp Technologies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bugs": {
     "email": "adam@throttleup.io"
   },
