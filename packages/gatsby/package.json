@@ -1,10 +1,10 @@
 {
-  "name": "gatsby",
-  "description": "Blazing fast modern site generator for React",
-  "version": "4.21.1",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "@throttleup/gatsby",
+  "description": "Blazing fast modern site generator for React. Custom version of the original package.",
+  "version": "1.0.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com> and ThrottleUp Technologies",
   "bin": {
-    "gatsby": "./cli.js"
+    "gatsby": "cli.js"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
